@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>CV Fitri Oktavia</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="resume-container">
+        <header>
+            <h1>FITRI OKTAVIA</h1>
+            <p class="subtitle">MANAJEMEN PERKANTORAN</p>
+        </header>
+
+        <div class="main-content">
+            <aside class="left-col">
+                <img src="profile-photo.jpg" alt="Fitri Oktavia" class="profile-img">
+                
+                <section>
+                    <h2>TENTANG SAYA</h2>
+                    <p>Saya adalah lulusan Sekolah Menengah Kejuruan jurusan Manajemen Perkantoran dengan pengalaman dalam membuat dokumen dan bekerja sebagai resepsionis.</p>
+                </section>
+
+                <section>
+                    <h2>PENDIDIKAN</h2>
+                    <ul>
+                        <li><strong>SMK Al Irsyad Al Islamiyyah</strong><br>Manajemen Perkantoran 2023-2026</li>
+                        <li><strong>SMPN 1 Haurgeulis</strong><br>2020-2023</li>
+                        <li><strong>SD PUI Haurgeulis</strong><br>2013-2020</li>
+                    </ul>
+                </section>
+            </aside>
+
+            <main class="right-col">
+                <section>
+                    <h2>KEAHLIAN</h2>
+                    <ul>
+                        <li>Membuat dokumen, mengelola buku kas kecil, mengarsipkan dokumen, dan menangani tugas-tugas resepsionis.</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h2>PENGALAMAN</h2>
+                    <div class="job">
+                        <h3>KUA HAURGEULIS</h3>
+                        <p class="date">Program magang Juli-Sept 2025</p>
+                        <ul>
+                            <li>Bertindak sebagai resepsionis, mengarsipkan dokumen, dan menginput data.</li>
+                        </ul>
+                    </div>
+                    <div class="job">
+                        <h3>OSIS SMK AL IRSYAD AL ISLAMIYYAH</h3>
+                        <p class="date">2023-2025</p>
+                        <ul>
+                            <li>Menginisiasi berbagai program untuk berkontribusi pada kemajuan SMK.</li>
+                        </ul>
+                    </div>
+                </section>
+
+                <section>
+                    <h2>KONTAK</h2>
+                    <p>📞 +62831-1344-7522</p>
+                    <p>📧 fitrriokta@gmail.com</p>
+                    <p>🌐 @fitrioktaaa</p>
+                </section>
+            </main>
+        </div>
+    </div>
+</body>
+</html>
